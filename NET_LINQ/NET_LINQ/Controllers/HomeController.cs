@@ -16,7 +16,7 @@ namespace NET_LINQ.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+            //kkjljkl
             return View();
         }
 
